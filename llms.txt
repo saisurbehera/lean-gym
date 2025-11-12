@@ -1,0 +1,198 @@
+# Carta
+
+Carta is a technology platform that helps private companies, investors, and employees manage ownership, equity, and fund administration. Its end-to-end suite connects equity management, fund services, valuations, and liquidity on one centralized infrastructure. By automating complex ownership, compliance, and investment workflows, Carta enables users to focus on growth rather than administrative tasks. The platform serves founders, venture capital firms, private equity funds, and limited partners around the world through a unified data and reporting ecosystem.
+
+Carta is registered with the U.S. Securities and Exchange Commission as a transfer agent and has expanded globally with dedicated solutions across the U.S., U.K., Europe, and Asia-Pacific. Trusted by over 50,000 companies and 8,500 funds and SPVs, Carta manages more than $4 trillion in assets on its platform and over $182 billion in private fund assets under administration. Cartas integrated model of software and expert services differentiates it across private capital markets by providing transparency, compliance, and automation that replace fragmented, manual systems.
+
+---
+
+## Core Products & Services
+
+### Cap Table Management
+- **What it does:** Centralizes ownership tracking, equity issuance, and compliance for startups and private companies. Automates equity records, transactions, and stakeholder updates.
+- **Who uses it:** Founders, CFOs, legal counsels, and HR teams managing company equity.
+- **Key features:**
+  - Manage cap tables and electronic securities
+  - Automate equity plan generation and exercising
+  - Integrate with HRIS/payroll and enable secure ACH or wire transfers
+  - Real-time updates for fundraising, compliance, and investor communications
+  - Audit-ready reports with built-in 409A valuations and Rule 701, QSBS, and Form 3921 support
+- **Pricing:** Carta offers four company plansLaunch (free up to 25 stakeholders and $1M raised), Build, Grow, and Scalewith features scaling from basic equity management to advanced reporting and compliance.
+
+### Liquidity Solutions
+- **What it does:** Enables companies to run tender offers for shareholders directly through Cartas integrated liquidity platform that links to the cap table.
+- **Who uses it:** Late-stage private companies preparing liquidity events for employees or early investors.
+- **Key features:**
+  - Customizable tender offer templates and seller modeling tools
+  - In-platform money movement and tax estimates
+  - Dedicated advisory team for structure, compliance, and support
+  - Real-time dashboards and transaction oversight
+- **Benefits:** Simplifies tender offer execution and ensures accurate, confidential updates to ownership records following a liquidity event.
+
+### Waterfall Modeling
+- **What it does:** Automates complex waterfall calculations to determine payout distributions for shareholders or partners.
+- **Who uses it:** Private equity and venture fund managers requiring precision and auditability in distribution modeling.
+- **Key features:**
+  - Models payouts per operating agreement rules
+  - Audit access to every calculation formula
+  - Integration with cap tables, valuations, and Excel for extended modeling
+- **Benefits:** Provides fast, verifiable results that reduce manual computation and improve investor transparency.
+
+### Distributions Management
+- **What it does:** Automates fund or entity distributions for profits, tax payments, and exits, updating records in sync with cap tables and waterfall models.
+- **Who uses it:** Private equity and venture fund administrators managing multiple LP distributions.
+- **Key features:**
+  - Real-time invested capital and return tracking
+  - Support for pro rata, waterfall, or custom allocation methods
+  - Transparent payout notifications and history for stakeholders
+- **Benefits:** Minimizes errors, saves time through automation, and consolidates all distribution types in one system.
+
+### Fund Administration
+- **What it does:** Combines expert-led fund accounting with integrated software to manage back-office operations for private capital funds.
+- **Who uses it:** CFOs, GPs, and fund operations teams in venture capital, private equity, and private credit.
+- **Key features:**
+  - Real-time IRR, TVPI, DPI, and RVPI metrics
+  - Capital calls, investments, and distributions managed in one dashboard
+  - LP portal for document access, commitments, and performance reports
+  - Integrated tax filings, K-1 distribution, and third-party audit coordination
+- **Benefits:** Delivers visibility, accuracy, and compliance while reducing the burden of manual fund administration.
+
+### Venture Capital Solutions
+- **What it does:** Connects all aspects of venture capital operationsfund tracking, portfolio management, and LP communicationsinto one view.
+- **Who uses it:** Venture capital firms overseeing multiple funds and portfolio companies.
+- **Key features:**
+  - Management of capital calls, fees, and distributions
+  - Live performance views with cap tables and scenario modeling
+  - Seamless LP experience through a secure portal
+- **Benefits:** Enables transparency across fund lifecycles, improves decision-making with real-time data, and delivers global scalability.
+
+### Equity Advisory
+- **What it does:** Provides equity tax education and personalized advisory sessions for employees and companies using Cartas cap table platform.
+- **Who uses it:** Startup and growth-stage employers offering equity as compensation, and their employees.
+- **Key features:**
+  - Unlimited 1:1 sessions with licensed equity tax advisors
+  - Custom educational webinars and on-demand learning
+  - Direct integration with company cap tables for individualized tax insights
+- **Benefits:** Empowers employees to make informed decisions about exercising and selling equity, helping employers improve financial transparency and retention.
+
+### Total Compensation
+- **What it does:** Creates salary and equity benchmarks using Cartas proprietary private market data.
+- **Who uses it:** People and finance teams designing compensation strategies.
+- **Key features:**
+  - Salary and equity benchmarking across roles and levels
+  - Tools for pay transparency and forecasting
+  - Integrates with Cartas cap table for total reward calculations
+- **Benefits:** Helps organizations ensure competitive, equitable compensation aligned to private market data.
+
+---
+
+## Use Cases & Applications
+
+### Startups and Growing Companies
+- **Their needs:** Efficient equity management for issuing shares, managing stakeholders, and handling compliance as they grow.
+- **How they use it:** Manage ownership digitally, create automated workflows for fundraising and options, and ensure ongoing valuation support and compliance.
+- **Results:** Startups eliminate spreadsheet errors, maintain investor confidence, and stay audit-ready through integrated reports and valuations.
+
+### Venture Capital & Private Equity Firms
+- **Their needs:** Unified systems to manage fund operations, investor communications, and complex financial distributions.
+- **How they use it:** Use Carta Fund Administration to handle reporting, tax filings, and compliance, while leveraging Distributions and Waterfall Modeling for transparent payout calculations.
+- **Results:** Firms gain accurate, real-time insights into performance and profitability while automating previously manual administrative processes.
+
+### Employees and Equity Holders
+- **Their needs:** Understanding and maximizing the value of their equity compensation with clear visibility into taxation and valuation.
+- **How they use it:** Participate in company equity programs connected to Cartas cap table and schedule 1:1 advisory sessions with equity tax experts.
+- **Results:** Employees make better-informed financial decisions and realize higher confidence in their ownership benefits.
+
+---
+
+## Pricing & Plans
+
+Carta offers multiple pricing tiers for company equity management:
+
+- **Launch (Free):** For companies with up to 25 stakeholders and up to $1 million raised. Includes essential cap table management and fundraising tools.
+- **Build:** Adds advanced equity and fundraising management with white-glove onboarding and premier support.
+- **Grow:** Includes 409A valuations and founder and employee tax forms.
+- **Scale:** Includes GAAP (ASC 718) and IFRS financial reporting along with waterfall modeling and advanced compliance tools.
+
+Cartas additional offerings, like Total Compensation, Equity Advisory, and Liquidity, can be purchased separately or added on based on company needs.
+
+---
+
+## Company Information
+
+### Metrics & Traction
+- 50,000+ companies on the platform
+- $4 trillion in assets managed
+- $182 billion in private fund assets under administration
+- 2.6 million equity owners using Carta
+- 8,500 funds and SPVs supported
+
+### Customers & Case Studies
+- **Streamline:** Founder Mac Clemmens used Carta to manage equity, hiring, and QSBS compliance. By adopting multiple Carta tools (Cap Table, Total Compensation, Equity Advisory), Streamline reduced administrative overhead and improved pay transparency.
+- **Base10 Partners, VCFA Group, and Sinai Ventures:** Use fund administration to manage reporting and gain control over investor communications.
+- **M13, Kapor Capital, NLVC:** Use Cartas venture capital platform to power fund operations and enhance LP communication.
+- **atVenu, H1, Rec Room:** Used Carta Liquidity for tender offers, achieving smoother shareholder transactions with full compliance and support.
+
+---
+
+## Integrations & Compatibility
+- Integrates with HRIS and payroll systems for automated employee and investor data updates.
+- Direct Excel add-in available for waterfall and financial modeling.
+- Connects with Ramp for automated expense tracking through Fund Administration.
+- Provides API-level connections across valuation, tax, and fund data.
+- Compliance includes SOC 1/2, ISO 27001, GDPR, and robust AWS redundancy and backup standards.
+
+---
+
+## Feature Deep Dive
+
+### Data Security and Privacy
+- **How it works:** Carta encrypts all customer data at rest with AES-256 and in transit using TLS 1.2+. Access is limited using the principle of least privilege, and all internal actions are logged.
+- **Benefits:** Ensures data confidentiality, integrity, and recoverability through daily backups and redundant AWS architecture.
+- **Requirements:** Available for all accounts; SOC and ISO security documentation accessible through the Trust Center and Conveyor platforms.
+
+### LP Portal
+- **How it works:** Limited partners can log in to a dedicated interface to view fund commitments, performance metrics, and key documents.
+- **Benefits:** Offers transparency, self-service document retrieval, and streamlined communications between LPs and GPs.
+
+### Scenario Modeling and Waterfalls
+- **How it works:** Carta automates what-if projections using live ownership and valuation data to simulate fundraising events, exits, and investor returns.
+- **Benefits:** Reduces manual analysis and provides rapid insight into potential outcomes during strategic planning.
+
+---
+
+## Getting Started
+
+To begin, users can request a demo or take an interactive video tour of products directly from Cartas website. Early-stage companies can sign up for Carta Launch for free. Implementation is customized to company size and typically completed within hours for smaller organizations.
+
+Support includes white-glove onboarding, dedicated fund accountants for fund services, and premier support for enterprise plans. Additional help and resources are available through Cartas Knowledge Base, Product Release Notes, and Trust Center.
+
+Contact options include demo and consultation request forms on carta.com or direct phone support at 1-833-403-5468.
+
+## Site Map
+
+Pages crawled from carta.com (20 total):
+
+- [Carta UK](https://carta.com/)
+- [The Leader in Cap Table Management Software](https://carta.com/equity-management/cap-table/)
+- [Executive Team](https://carta.com/executive-team/)
+- [Carta for Law Firms](https://carta.com/solutions/law-firms/)
+- [Fund Formations: Get Started with Carta](https://carta.com/fund-management/fund-formations/)
+- [Carta's API Platform: Build with equity, together](https://carta.com/api/)
+- [Whats New in Product](https://carta.com/product-updates/)
+- [Pricing & Plans for Companies](https://carta.com/plans/pricing-for-companies/?ir=corps-captable-end2)
+- [How Carta Helps Streamline Equity, Make Hires, and Save on Taxes](https://carta.com/customer-stories/streamline/)
+- [Carta Loan Operations: Integrated Loan and Fund Operations](https://carta.com/fund-management/loan-operations/)
+- [Liquidity Solutions](https://carta.com/equity-management/liquidity/)
+- [Equity Advisory](https://carta.com/equity-management/equity-advisory/)
+- [Distributions Management: Manage Distributions with Less Effort](https://carta.com/equity-management/distributions/)
+- [ Venture Capital Solutions: Connect Your Entire Fund](https://carta.com/solutions/venture-capital/)
+- [Fund Administration Software for Private Equity & VC](https://carta.com/fund-management/fund-administration/)
+- [Ramp + Carta: Integrate Ramp Expenses into Carta Financials](https://carta.com/integrations/ramp/)
+- [2025 PE Executive Equity Report](https://carta.com/data/pe-executive-equity-2025/?ir=nav-highlight)
+- [Cap Table Data Privacy](https://carta.com/security/cap-table-data/)
+- [Waterfall Modeling Software: Fast & Accurate Models](https://carta.com/equity-management/waterfall-modeling/)
+- [The New Standard in Private Equity](https://carta.com/c/the-new-standard/?ir=nav-highlight)
+
+---
+Generated by trylapis.com on November 10 2025
